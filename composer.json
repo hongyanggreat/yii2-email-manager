@@ -1,5 +1,5 @@
 {
-	"name" : "duongnh/yii2-email-manager",
+	"name" : "duongnh/yii2-email",
 	"description" : "Yii2 Email Manager",
 	"type" : "yii2-extension",
 	"license" : "MIT",
@@ -60,7 +60,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"navatech\\email\\" : "src/"
+			"duongnh\\email\\" : "src/"
 		}
 	},
 	"extra" : {
