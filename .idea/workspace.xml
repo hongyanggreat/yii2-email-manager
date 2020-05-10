@@ -3,31 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2daac1c-01b4-4035-a9ba-31ecf31a46cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yii2-email-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yii2-email-manager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Module.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commands/EmailController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/commands/EmailController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/EmailManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EmailManager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/MessageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/MessageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/TemplateController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/TemplateController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/EmailHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/EmailHelper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/EmailSpoolDaemonInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/EmailSpoolDaemonInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/TransportInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/TransportInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/EmailMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/EmailMessage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/EmailTemplate.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/EmailTemplate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/search/EmailMessageSearch.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/search/EmailMessageSearch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swiftmailer/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiftmailer/Mailer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/traits/EmailSpoolDaemonTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/traits/EmailSpoolDaemonTrait.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/transports/MailGun.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/transports/MailGun.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/transports/YiiMailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/transports/YiiMailer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twig/EmailTemplateLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/twig/EmailTemplateLoader.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/message/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/message/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/template/_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/template/_form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/template/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/template/create.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/template/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/template/update.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/template/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/template/view.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="238">
+              <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commands/EmailController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="200">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -108,23 +84,6 @@
               <item name="yii2-email-manager" type="b2602c69:ProjectViewProjectNode" />
               <item name="yii2-email-manager" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="yii2-email-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yii2-email-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yii2-email-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yii2-email-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yii2-email-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yii2-email-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -163,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589079667755</updated>
       <workItem from="1589079669212" duration="893000" />
-      <workItem from="1589080710615" duration="3672000" />
+      <workItem from="1589080710615" duration="4003000" />
     </task>
     <task id="LOCAL-00001" summary="upfate composer">
       <created>1589079856633</created>
@@ -193,11 +152,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589085076283</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="upfate composer">
+      <created>1589090074747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589090074748</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4565000" />
+    <option name="totallyTimeSpent" value="4896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -248,17 +214,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/src/commands/EmailController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="200">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/commands/EmailController.php">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
