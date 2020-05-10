@@ -62,5 +62,5 @@
 		"psr-4" : {
 			"duongnh\\email\\" : "src/"
 		}
-	},
+	}
 }
