@@ -4,7 +4,7 @@
  * @author Valentin Konusov <rlng-krsk@yandex.ru>
  */
 
-namespace navatech\email\twig;
+namespace duongnh\email\twig;
 
 use duongnh\email\components\EmailManager;
 use duongnh\email\models\EmailTemplate;
