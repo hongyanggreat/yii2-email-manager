@@ -1,9 +1,9 @@
 <?php
 
-namespace navatech\email\controllers;
+namespace duongnh\email\controllers;
 
-use navatech\email\models\EmailMessage;
-use navatech\email\models\search\EmailMessageSearch;
+use duongnh\email\models\EmailMessage;
+use duongnh\email\models\search\EmailMessageSearch;
 use Yii;
 use yii\filters\AccessControl;
 use yii\web\Controller;

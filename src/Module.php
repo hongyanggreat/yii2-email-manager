@@ -1,14 +1,14 @@
 <?php
 
-namespace navatech\email;
+namespace duongnh\email;
 /**
  * @author  Alexey Samoylov <alexey.samoylov@gmail.com>
  * @author  Valentin Konusov <rlng-krsk@yandex.ru>
  *
  * Class Module
- * @package navatech\email\backend
+ * @package duongnh\email\backend
  */
-class Module extends \navatech\base\Module {
+class Module extends \duongnh\base\Module {
 
 	public $cleanAfter = 30;
 }

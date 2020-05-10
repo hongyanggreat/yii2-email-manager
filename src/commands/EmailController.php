@@ -1,13 +1,13 @@
 <?php
 
-namespace navatech\email\commands;
+namespace duongnh\email\commands;
 
 use Exception;
-use navatech\email\components\EmailManager;
-use navatech\email\interfaces\EmailSpoolDaemonInterface;
-use navatech\email\models\EmailMessage;
-use navatech\email\Module;
-use navatech\email\traits\EmailSpoolDaemonTrait;
+use duongnh\email\components\EmailManager;
+use duongnh\email\interfaces\EmailSpoolDaemonInterface;
+use duongnh\email\models\EmailMessage;
+use duongnh\email\Module;
+use duongnh\email\traits\EmailSpoolDaemonTrait;
 use React\EventLoop\Factory;
 use Throwable;
 use Yii;

@@ -1,9 +1,9 @@
 <?php
 
-namespace navatech\email\models\search;
+namespace duongnh\email\models\search;
 
 use kartik\daterange\DateRangeBehavior;
-use navatech\email\models\EmailMessage;
+use duongnh\email\models\EmailMessage;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
 

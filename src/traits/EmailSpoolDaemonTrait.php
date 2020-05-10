@@ -1,6 +1,6 @@
 <?php
 /**
- * Created by Navatech.
+ * Created by duongnh.
  * @project linkyes-net
  * @author  Phuong
  * @email   notteen[at]gmail.com
@@ -8,7 +8,7 @@
  * @time    7:10 PM
  */
 
-namespace navatech\email\traits;
+namespace duongnh\email\traits;
 
 use Exception;
 use yii\helpers\Console;

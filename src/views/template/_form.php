@@ -1,7 +1,7 @@
 <?php
-use navatech\email\components\EmailManager;
-use navatech\email\models\EmailTemplate;
-use navatech\roxymce\widgets\RoxyMceWidget;
+use duongnh\email\components\EmailManager;
+use duongnh\email\models\EmailTemplate;
+use duongnh\roxymce\widgets\RoxyMceWidget;
 use yii\helpers\Html;
 use yii\web\View;
 use yii\widgets\ActiveForm;

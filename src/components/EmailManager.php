@@ -4,12 +4,12 @@
  * @author Valentin Konusov <rlng-krsk@yandex.ru>
  */
 
-namespace navatech\email\components;
+namespace duongnh\email\components;
 
-use navatech\email\interfaces\TransportInterface;
-use navatech\email\models\EmailMessage;
-use navatech\email\Module;
-use navatech\language\models\Language;
+use duongnh\email\interfaces\TransportInterface;
+use duongnh\email\models\EmailMessage;
+use duongnh\email\Module;
+use duongnh\language\models\Language;
 use Yii;
 use yii\base\Component;
 use yii\base\InvalidConfigException;

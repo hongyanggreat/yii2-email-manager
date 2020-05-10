@@ -1,6 +1,6 @@
 <?php
 
-namespace navatech\email\models;
+namespace duongnh\email\models;
 
 use baibaratsky\yii\behaviors\model\SerializedAttributes;
 use Yii;

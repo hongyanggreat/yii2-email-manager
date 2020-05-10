@@ -4,11 +4,11 @@
  * @author Valentin Konusov <rlng-krsk@yandex.ru>
  */
 
-namespace navatech\email\transports;
+namespace duongnh\email\transports;
 
 use Exception;
 use Http\Adapter\Guzzle6\Client;
-use navatech\email\interfaces\TransportInterface;
+use duongnh\email\interfaces\TransportInterface;
 use Yii;
 use yii\base\Component;
 use yii\helpers\VarDumper;

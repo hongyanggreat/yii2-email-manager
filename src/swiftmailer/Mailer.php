@@ -1,6 +1,6 @@
 <?php
 /**
- * Created by Navatech.
+ * Created by duongnh.
  * @project yii2-cms
  * @author  Thuc
  * @email   thuchm92[at]gmail.com
@@ -8,9 +8,9 @@
  * @time    4:33 PM
  */
 
-namespace navatech\email\swiftmailer;
+namespace duongnh\email\swiftmailer;
 
-use navatech\email\Module;
+use duongnh\email\Module;
 use Yii;
 
 class Mailer extends \yii\swiftmailer\Mailer {

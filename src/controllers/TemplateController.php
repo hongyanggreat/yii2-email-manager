@@ -1,8 +1,8 @@
 <?php
 
-namespace navatech\email\controllers;
+namespace duongnh\email\controllers;
 
-use navatech\email\models\EmailTemplate;
+use duongnh\email\models\EmailTemplate;
 use Yii;
 use yii\data\ActiveDataProvider;
 use yii\filters\AccessControl;

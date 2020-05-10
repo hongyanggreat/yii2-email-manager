@@ -1,13 +1,13 @@
 <?php
 
-namespace navatech\email\models;
+namespace duongnh\email\models;
 
 use BadMethodCallException;
 use Exception;
-use navatech\email\components\EmailManager;
-use navatech\email\Module;
-use navatech\email\twig\EmailTemplateLoader;
-use navatech\language\models\Language;
+use duongnh\email\components\EmailManager;
+use duongnh\email\Module;
+use duongnh\email\twig\EmailTemplateLoader;
+use duongnh\language\models\Language;
 use Twig\Environment;
 use Twig_LoaderInterface;
 use Yii;

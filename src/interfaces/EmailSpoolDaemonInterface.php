@@ -1,6 +1,6 @@
 <?php
 /**
- * Created by Navatech.
+ * Created by duongnh.
  * @project visionliberty-com
  * @author  Phuong
  * @email   notteen[at]gmail.com
@@ -8,7 +8,7 @@
  * @time    2:15 PM
  */
 
-namespace navatech\email\interfaces;
+namespace duongnh\email\interfaces;
 
 use Throwable;
 

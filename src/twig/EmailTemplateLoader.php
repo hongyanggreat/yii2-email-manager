@@ -6,8 +6,8 @@
 
 namespace navatech\email\twig;
 
-use navatech\email\components\EmailManager;
-use navatech\email\models\EmailTemplate;
+use duongnh\email\components\EmailManager;
+use duongnh\email\models\EmailTemplate;
 use Twig\Error\LoaderError;
 use Twig\Loader\LoaderInterface;
 use Twig\Source;
