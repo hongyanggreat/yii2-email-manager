@@ -1,6 +1,6 @@
 {
 	"name" : "duongnh/yii2-email",
-	"description" : "Yii2 Email Manager",
+	"description" : "Yii2 Email Manager v1.1",
 	"type" : "yii2-extension",
 	"license" : "MIT",
 	"keywords" : [
@@ -55,7 +55,7 @@
 		"navatech/yii2-roxymce" : "^2.0"
 	},
 	"suggest" : {
-		"cboden/ratchet" : "to use loop instead of for-cycle in daemon v1.0",
+		"cboden/ratchet" : "to use loop instead of for-cycle in daemon",
 		"navatech/yii2-setting": "1.0.*"
 	},
 	"autoload" : {
