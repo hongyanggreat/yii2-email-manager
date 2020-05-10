@@ -64,6 +64,6 @@
 		}
 	},
 	"extra" : {
-		"bootstrap" : "navatech\\email\\Bootstrap"
+		"bootstrap" : "duongnh\\email\\Bootstrap"
 	}
 }
