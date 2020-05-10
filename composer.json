@@ -60,10 +60,10 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"duongnh\\email\\" : "src/"
+			"navatech\\email\\" : "src/"
 		}
 	},
 	"extra" : {
-		"bootstrap" : "duongnh\\email\\Bootstrap"
+		"bootstrap" : "navatech\\email\\Bootstrap"
 	}
 }
